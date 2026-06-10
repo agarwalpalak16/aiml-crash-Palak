@@ -1,0 +1,11 @@
+customer_id,customer_name,region,segment
+1,Rahul,North,Consumer
+2,Priya,South,Corporate
+3,Amit,East,Consumer
+4,Neha,West,Home Office
+5,Rohan,North,Corporate
+6,Anjali,South,Consumer
+7,Karan,East,Home Office
+8,Pooja,West,Consumer
+9,Arjun,North,Corporate
+10,Simran,South,Consumer

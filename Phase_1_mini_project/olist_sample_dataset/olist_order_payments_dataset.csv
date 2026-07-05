@@ -1,0 +1,4 @@
+order_id,payment_type,payment_value
+o1,credit_card,100
+o2,upi,200
+o3,debit_card,300

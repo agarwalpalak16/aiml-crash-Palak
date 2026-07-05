@@ -1,0 +1,4 @@
+order_id,customer_id,order_purchase_timestamp
+o1,c1,2024-01-01
+o2,c2,2024-01-05
+o3,c3,2024-01-10
